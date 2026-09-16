@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local conversation archive includes personal employment evidence.
+/context/github-education-rejection-help/
